@@ -1,3 +1,3 @@
 # Python-Searching-Algorithm-Implementations
 
-Python implementation of four common sorting algorithms: Linear, Binary, Insertion and Bubble.
+Python implementation of two common searching algorithms: Linear, Binary. As well as two common sorting algorithms: Insertion, Bubble.
